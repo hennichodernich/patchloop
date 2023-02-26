@@ -819,8 +819,8 @@
     (pin "2" (uuid ef59815b-47a6-4b83-a1ae-51e24cb9f544))
     (pin "3" (uuid 837b3d75-fe4a-4854-b49b-71dedab82c18))
     (pin "4" (uuid 2f56de30-b40f-40de-8843-821c1b816991))
-    (pin "5" (uuid 6f7292ff-012f-4d09-8f08-741d93912341))
-    (pin "5" (uuid 6f7292ff-012f-4d09-8f08-741d93912341))
+    (pin "5" (uuid 6f7292ff-012f-4d09-8f08-741d93912342))
+    (pin "5" (uuid 6f7292ff-012f-4d09-8f08-741d93912342))
   )
 
   (symbol (lib_id "Connector:8P8C") (at 146.05 77.724 0) (mirror y) (unit 1)
